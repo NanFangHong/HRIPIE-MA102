@@ -5,14 +5,15 @@ The course page of MA102 Mathematics II (Fall 2020) at HRIPIE.
  
   
 - (12 Oct) 
-  - drug discovery, formulation, manufacturing and delivery.
-  - challenge of quantitative pharmaceutics/formulation modeling.
-  - ODE/PDE in modeling and simulation in today's pharmaceutical industry. 
+  - [Course Sheet](MA102_Course_Sheet.pdf)
+  - Drug discovery, formulation, manufacturing and delivery.
+  - Challenge of quantitative pharmaceutics/formulation modeling.
+  - ODE/PDE modeling and simulation in today's pharmaceutical industry. 
   
 - (14 Oct) 
   - Initial or boundary condition. 
   - Existence and Uniqueness of solution. 
-  - Finite element method to PDE. 
+  - Finite element method for PDE. 
   - Meshing of geometric object. 
   - Motivation of computational conformal geometry. 
 
