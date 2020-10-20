@@ -13,10 +13,23 @@ The course page of MA102 Mathematics II (Fall 2020) at HRIPIE. [Course Sheet](MA
   - wiring diagram
   
 - (16 Oct) 
-  - V-category and its example: bool-category and cost-category
+  - V-category and its example: bool-category, cost-category and NMY-category
   - weighted graph and shortest path problem re-visit: through matrix multiplication in a categorical sense
   
 [Lecture Note 1](Category_theory_note_1.pdf)
   
 
+- (19 Oct) 
+  - 
+  - 
 
+- (20 Oct) 
+  - Bayesian Inference
+
+- (21 Oct) 
+  - 
+  - 
+  
+- (23 Oct) 
+  - 
+  - 
