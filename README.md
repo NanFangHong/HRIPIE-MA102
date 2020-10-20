@@ -18,6 +18,7 @@ The course page of MA102 Mathematics II (Fall 2020) at HRIPIE. [Course Sheet](MA
   
 [Lecture Note 1](Category_theory_note_1.pdf)
   
+# Week 2
 
 - (19 Oct) 
   - 
