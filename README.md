@@ -21,16 +21,14 @@ The course page of MA102 Mathematics II (Fall 2020) at HRIPIE. [Course Sheet](MA
 # Week 2
 
 - (19 Oct) 
-  - 
-  - 
+  - profunctors
+  - composition 
 
 - (20 Oct) 
-  - Bayesian Inference
+  - [Bayesian Inference for Beginners](Bayesian_Inference.pdf)
 
 - (21 Oct) 
-  - 
-  - 
+  - compact closed category
   
 - (23 Oct) 
-  - 
-  - 
+  - summary 
