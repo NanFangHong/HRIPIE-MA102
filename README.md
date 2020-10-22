@@ -30,5 +30,8 @@ The course page of MA102 Mathematics II (Fall 2020) at HRIPIE. [Course Sheet](MA
 - (21 Oct) 
   - compact closed category
   
+- (22 Oct)
+  - [Conjugate Prior](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading15a.pdf)
+  
 - (23 Oct) 
   - summary 
