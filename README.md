@@ -36,3 +36,9 @@ The course page of MA102 Mathematics II (Fall 2020) at HRIPIE. [Course Sheet](MA
   
 - (23 Oct) 
   - summary [naive talk](category_talk.pdf)
+  
+  
+# Week 3
+
+- (26-30 Oct) 
+  - Reading Week: Remy's application of category theory
