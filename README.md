@@ -50,12 +50,14 @@ The course page of MA102 Mathematics II (Fall 2020) at HRIPIE. [Course Sheet](MA
   
 [CCG Lecture Note 1](CCG/CCG_L1.pdf)
   
-  
+# Week 5
+
 - (9-13 Nov)
   - Computational Conformal Geometry - Homology and Cohomology
   
 [CCG Lecture Note 2](CCG/CCG_L2.pdf)
 
+# Week 6
   
 - (16-20 Nov)
   - Computational Conformal Geometry - Computation of Mathematical Objects in L1 and L2
