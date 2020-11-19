@@ -62,4 +62,5 @@ The course page of MA102 Mathematics II (Fall 2020) at HRIPIE. [Course Sheet](MA
 - (16-20 Nov)
   - Computational Conformal Geometry - Computation of Mathematical Objects in L1 and L2
   
+[CCG Lecture Note 3](CCG/CCG_L3.pdf)
   
