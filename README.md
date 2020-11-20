@@ -47,11 +47,11 @@ The course page of MA102 Mathematics II (Fall 2020) at HRIPIE. [Course Sheet](MA
 # Week 7
 
 - (23-27 Nov)
- - Computational Conformal Geometry - Simplicial approximation, Brouwer fixed point, Lefschetz fixed point
+  - Computational Conformal Geometry - Simplicial approximation, Brouwer fixed point, Lefschetz fixed point
  
  
 # Week 8
 
 - (30 Nov - 4 Dec)
- - Computational Conformal Geometry - Chern-Gauss-Bonnet Theorem, Poincare-Hopf Index Theorem
+  - Computational Conformal Geometry - Chern-Gauss-Bonnet Theorem, Poincare-Hopf Index Theorem
   
