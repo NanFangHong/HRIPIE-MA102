@@ -48,6 +48,10 @@ The course page of MA102 Mathematics II (Fall 2020) at HRIPIE. [Course Sheet](MA
 
 - (23-27 Nov)
   - Computational Conformal Geometry - Simplicial approximation, Sperner's lemma, Brouwer's fixed point, Lefschetz's fixed point, Chern-Gauss-Bonnet Theorem, Poincare-Hopf Index Theorem
+  - [NUMGRID](http://www.ccas.ru/gridgen/numgrid2020/)
+  
+
+
  
 # Week 8 - 9 
 
