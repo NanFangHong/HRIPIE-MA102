@@ -9,7 +9,9 @@ More details see our [Course Sheet](MA102_Course_Sheet.pdf)
 ## Lecture Notes
 
 
+### About HRIPIE 
 
+We are currently a non-profit research institute based in Canton Greater Bay Area, mostly in **Guangzhou**. See [HRIPIE Homepage](honzresearch.github.io)
 
 #### For Page Maintainer
 
