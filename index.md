@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to HRIPIE MA102! 
 
-You can use the [editor on GitHub](https://github.com/NanFangHong/HRIPIE-MA102/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The MA101/MA102 sequence aims to provide demanding mathematical education to pharmacometricians and industrial engineers (that one cannot find it anywhere else). Reserved as a brave and exploratory learning experience without participant’s concern for immediate application, HRIPIE Mathematics emphasizes thinking of mathematical essence behind domain knowledge, representing applied problem in mathematical lan- guage, and collaborating with mathematicians in an effective way (but yourself not need to be one of them). It encourages pharmacometricians and industrial engineers to produce timeless and influential works by solving hard-core mathematical question less observed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The content in this lecture series will be intensive, self-contained, and tailored to specific student’s background as much as we can. It requires mathematical rigor and conceptual clear, up to being able to appreciate more advanced material and to communicate with mathematicians. Being able to construct a proof is often not required, but will be the case if it serves the purpose aforementioned.
 
-### Markdown
+More details see our [Course Sheet](MA102_Course_Sheet.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Lecture Notes
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#### For Page Maintainer
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NanFangHong/HRIPIE-MA102/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can use the [editor on GitHub](https://github.com/NanFangHong/HRIPIE-MA102/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
