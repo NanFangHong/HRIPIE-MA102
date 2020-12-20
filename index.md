@@ -2,14 +2,14 @@
 
 [Course Sheet](file/MA102_Course_Sheet.pdf)
 
-**ACT**: Applied Category Theory
-
-**CCG**: Computational Conformal Geometry
+Recently we are following David Xianfeng Gu‘s  Computational Conformal Geometry (Abbr. as **CCG**)
 
 ## Lecture Notes
 
 [CCG Lecture 1](file/CCG_L1.pdf)
+
 [CCG Lecture 2](file/CCG_L2.pdf)
+
 [CCG Lecture 2](file/CCG_L2.pdf)
 
 
