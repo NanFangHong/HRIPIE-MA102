@@ -10,7 +10,7 @@ Recently we are following David Xianfeng Gu‘s  Computational Conformal Geometr
 
 [CCG Lecture 2](file/CCG_L2.pdf)
 
-[CCG Lecture 2](file/CCG_L2.pdf)
+[CCG Lecture 3](file/CCG_L3.pdf)
 
 
 ### About HRIPIE 
