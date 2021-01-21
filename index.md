@@ -8,11 +8,13 @@ Recently we are following David Xianfeng Gu‘s  Computational Conformal Geometr
 
 [CCG Lecture 1](file/CCG_L1.pdf) Basic Surface Algebraic Topology
 
+[CCG Computational Lab I](file/CCG_Comp_1.pdf) Discrete Basic Surface Algebraic Topology
+
 [CCG Lecture 2](file/CCG_L2.pdf) Maps between Topological Spaces
 
 [CCG Lecture 3](file/CCG_L3.pdf) Topological Obstruction
 
-[CCG Computational Lab I](file/CCG_Comp_1.pdf) Discrete Surface Algebraic Topology
+
 
 
 ### About HRIPIE 
