@@ -5,7 +5,7 @@
 Recently we are following David Xianfeng Gu‘s  Computational Conformal Geometry (Abbr. as **CCG**)
 
 ## Lecture Notes
-
+[Presentation at SUSTech](file/Presentation_at_SUSTech.pdf)
 
 
 ### About HRIPIE 
